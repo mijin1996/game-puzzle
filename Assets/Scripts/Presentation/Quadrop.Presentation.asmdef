@@ -1,0 +1,19 @@
+{
+    "name": "Quadrop.Presentation",
+    "rootNamespace": "Quadrop.Presentation",
+    "references": [
+        "Quadrop.Core",
+        "Quadrop.Game",
+        "Quadrop.Infrastructure",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

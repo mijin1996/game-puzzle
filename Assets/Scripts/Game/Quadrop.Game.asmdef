@@ -1,0 +1,16 @@
+{
+    "name": "Quadrop.Game",
+    "rootNamespace": "Quadrop.Game",
+    "references": [
+        "Quadrop.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
